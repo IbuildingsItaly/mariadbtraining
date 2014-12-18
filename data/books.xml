@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblio subject="XML">
+	<book ISBN="9782212090819" lang="en">
+		<author>
+			<first_name>Herbert George</first_name>
+			<last_name>Wells</last_name>
+		</author>
+		<title>The Invisible Man</title>
+		<pbl_year>1897</pbl_year>
+	</book>
+	<book ISBN="9782840825685" lang="en">
+		<author>
+			<first_name>Edgar</first_name>
+			<last_name>Allan Poe</last_name>
+		</author>
+		<title>The Philosophy of Composition</title>
+	</book>
+	<book ISBN="9782840825685" lang="en">
+		<author>
+			<first_name>Mario</first_name>
+			<last_name>Rossi</last_name>
+		</author>
+		<author>
+			<first_name>Mauro</first_name>
+			<last_name>Verdi</last_name>
+		</author>
+		<author>
+			<first_name>Marco</first_name>
+			<last_name>Bianchi</last_name>
+		</author>
+		<title>Yet Another Book</title>
+		<pbl_year>2014</pbl_year>
+	</book>
+</biblio>
